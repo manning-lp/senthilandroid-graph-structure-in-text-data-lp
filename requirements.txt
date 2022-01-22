@@ -1,0 +1,8 @@
+matplotlib
+networkx
+numpy
+pandas
+spacy
+py2neo
+umap
+hdbscan
